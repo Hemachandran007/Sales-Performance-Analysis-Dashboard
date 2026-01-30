@@ -10,19 +10,19 @@ I started by cleaning the data in MySQL removing currency symbols, correcting da
 After preparing the data, I imported it into Power BI and used Power Query and DAX to create key KPIs such as Total Sales, Total Boxes Shipped, Average Order Value, and Sales per Box.
 
 ## then built an interactive Sales Performance Dashboard to analyze:
-Sales by Country,
-Sales by Product,
-Sales by Salesperson,
-Sales trends over time,
-Slicers and filters were added to make the dashboard dynamic and user friendly for business decision making.
+- Sales by Country
+- Sales by Product
+- Sales by Salesperson
+- Sales trends over time
+- Slicers and filters were added to make the dashboard dynamic and user friendly for business decision making.
 
 ## Dashboard Interaction <a href="https://github.com/Hemachandran007/Sales-Performance-Analysis-Dashboard/blob/main/sales%20analysis%20dashboard.png">view dashboard</a>
 
 ## Business Objective:
 To monitor and analyze sales performance by country, product, and salesperson over time to support data driven decisions.
 
-Tools Used: **MySQL, Power BI, Excel** 
-Skills Applied: *Data Cleaning, SQL, Data Transformation, DAX, Dashboard Design, Data Visualization*
+- Tools Used: **MySQL, Power BI, Excel** 
+- Skills Applied: *Data Cleaning, SQL, Data Transformation, DAX, Dashboard Design, Data Visualization*
 
 ## Dashboard
 <img width="4150" height="2400" alt="sales analysis dashboard" src="https://github.com/user-attachments/assets/0d8db710-79a0-478f-8fe9-44d36f114407" />
