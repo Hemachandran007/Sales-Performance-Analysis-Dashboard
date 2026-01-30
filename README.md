@@ -9,7 +9,7 @@ I started by cleaning the data in MySQL removing currency symbols, correcting da
 
 After preparing the data, I imported it into Power BI and used Power Query and DAX to create key KPIs such as Total Sales, Total Boxes Shipped, Average Order Value, and Sales per Box.
 
-##then built an interactive Sales Performance Dashboard to analyze:
+##then built an interactive Sales Performance Dashboard to analyze
 Sales by Country
 Sales by Product
 Sales by Salesperson
