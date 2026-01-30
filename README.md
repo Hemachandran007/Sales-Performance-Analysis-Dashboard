@@ -9,14 +9,16 @@ I started by cleaning the data in MySQL removing currency symbols, correcting da
 
 After preparing the data, I imported it into Power BI and used Power Query and DAX to create key KPIs such as Total Sales, Total Boxes Shipped, Average Order Value, and Sales per Box.
 
-##then built an interactive Sales Performance Dashboard to analyze
+## then built an interactive Sales Performance Dashboard to analyze:
 Sales by Country
 Sales by Product
 Sales by Salesperson
 Sales trends over time
 Slicers and filters were added to make the dashboard dynamic and user friendly for business decision making.
 
-**Business Objective**:
+## Dashboard Interaction <a
+
+## Business Objective:
 To monitor and analyze sales performance by country, product, and salesperson over time to support data driven decisions.
 
 Tools Used: **MySQL, Power BI, Excel**
